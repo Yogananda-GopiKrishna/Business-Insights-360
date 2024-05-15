@@ -15,7 +15,15 @@ people who bought those goods from these stores referred as Consumers.
 
 Atliq Hardware ------> Customers-------> Consumers
 
+
+![image](https://github.com/Yogananda-GopiKrishna/Business-Insights-360/assets/125633628/fd603425-1437-41a2-8873-66e7ae9380d4)
+
+
+
 # How different teams work
+
+![image](https://github.com/Yogananda-GopiKrishna/Business-Insights-360/assets/125633628/1928c8bd-1fb3-4a57-9af9-5b3ac3045beb)
+
 
 
 # why AtliQ needs Power BI Dashboards
@@ -50,11 +58,19 @@ Other Excel tables
 # Key variables
 ## Regions - Sub regions - Markets
 
+![image](https://github.com/Yogananda-GopiKrishna/Business-Insights-360/assets/125633628/7ea9dcab-1246-47cf-afec-c72bd6c32a1b)
+
 
 
 ## Channels
+![image](https://github.com/Yogananda-GopiKrishna/Business-Insights-360/assets/125633628/1f317d74-3b09-4917-b671-1e85c98a1f11)
+
+
 
 ## Platforms
+
+![image](https://github.com/Yogananda-GopiKrishna/Business-Insights-360/assets/125633628/68356958-d5ba-4143-bdc5-f9b18f316184)
+
 
 ## Segment
 
@@ -66,8 +82,13 @@ Other Excel tables
 
 Snow flake schema ❄️ 
 
+![image](https://github.com/Yogananda-GopiKrishna/Business-Insights-360/assets/125633628/ae18fb50-ee88-4876-b210-c5a6782ad601)
+
 
 # Profit and Loss Statment
+
+![image](https://github.com/Yogananda-GopiKrishna/Business-Insights-360/assets/125633628/1b775e95-2f3b-4eb0-9176-eb976c375dd2)
+
 
 
 
@@ -96,6 +117,9 @@ Snow flake schema ❄️
 
 
 # Overview of PowerBI dashboard :
+![image](https://github.com/Yogananda-GopiKrishna/Business-Insights-360/assets/125633628/d8505bf4-8346-4158-a023-e8144e296b5b)
+
+
 
 ### Finance view
 
