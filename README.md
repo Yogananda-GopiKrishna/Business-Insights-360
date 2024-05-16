@@ -3,6 +3,7 @@ Designed an interactive PowerBI dashboards for AtliQ Hardware which paints vivid
 
 Interactive dashboard: https://app.powerbi.com/view?r=eyJrIjoiMTMwY2Q1ZTgtZWQ2Mi00MWRlLTg3ZTYtNTcyNzVmYjE5NDgwIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9&pageName=ReportSection036bd675603c27e56071
 
+Video Presentation : https://youtu.be/jm5nJEINk0o?si=8s5GHOCDfe2QKlSx
 
 # About company :
 
@@ -123,10 +124,22 @@ Snow flake schema ❄️
 
 ### Finance view
 
+<img width="781" alt="Finance" src="https://github.com/Yogananda-GopiKrishna/Business-Insights-360/assets/125633628/8866caae-efec-439b-97bc-6aac6c90918f">
+
+
 ### Sales view
+<img width="781" alt="Sales" src="https://github.com/Yogananda-GopiKrishna/Business-Insights-360/assets/125633628/e76143bb-446f-4e22-8572-9ac460b89a00">
+
 
 ### Marketing View
+<img width="777" alt="Marketing" src="https://github.com/Yogananda-GopiKrishna/Business-Insights-360/assets/125633628/f01014ab-b36d-458e-b6f3-8855a8744bc8">
+
 
 ### Supply Chain view
+<img width="781" alt="Supply Chain" src="https://github.com/Yogananda-GopiKrishna/Business-Insights-360/assets/125633628/dbd4d6ae-6217-48ed-bc5a-777746876ade">
+
 
 ### Executive view
+<img width="782" alt="Executive View" src="https://github.com/Yogananda-GopiKrishna/Business-Insights-360/assets/125633628/844e3bb6-e91c-4ca8-acd2-59694452b78e">
+
+
