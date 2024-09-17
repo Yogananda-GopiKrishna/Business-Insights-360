@@ -1,9 +1,9 @@
 # Business-Insights-360
 Designed an interactive PowerBI dashboards for AtliQ Hardware which paints vivid picture of Finance , Sales , Marketing, Supply chain and Executive insights.
 
-Interactive dashboard: https://app.powerbi.com/view?r=eyJrIjoiMTMwY2Q1ZTgtZWQ2Mi00MWRlLTg3ZTYtNTcyNzVmYjE5NDgwIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9&pageName=ReportSection036bd675603c27e56071
+Interactive dashboard: [link]( https://app.powerbi.com/view?r=eyJrIjoiMTMwY2Q1ZTgtZWQ2Mi00MWRlLTg3ZTYtNTcyNzVmYjE5NDgwIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9&pageName=ReportSection036bd675603c27e56071)
 
-Video Presentation : https://youtu.be/jm5nJEINk0o?si=8s5GHOCDfe2QKlSx
+Video Presentation : [link](https://youtu.be/jm5nJEINk0o?si=8s5GHOCDfe2QKlSx)
 
 # About company :
 
